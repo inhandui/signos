@@ -8,7 +8,9 @@ import android.widget.ListView;
 public class MainActivity extends AppCompatActivity {
 
     private ListView listaSignos;
-
+    private String[] signos = { "Áries", "Touro","Gêmeos","Câncer","Leão","Virgem",
+            "Libra","Escorpião","Sagitário","Capricórnio","Aquário",
+            "Peixes" };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
