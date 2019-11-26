@@ -15,7 +15,11 @@ public class MainActivity extends AppCompatActivity {
             "Libra","Escorpião","Sagitário","Capricórnio","Aquário",
             "Peixes" };
 
-
+    private String[] perfis = { "Os astros não ditam a sua vida!", "Seu comportamento não está ligado ao movimento das estrelas!",
+            "A cor do dia é a cor que você quiser usar!", "Hoje é um bom dia para fazer o que você quiser. As estrelas não ligam!",
+            "Um evento cósmico não muda o seu dia hoje! Você sim!","Não espere a sorte bater a sua porta. Sorte não existe!",
+            "Libra","Escorpião","Sagitário","Capricórnio","Aquário",
+            "Peixes" };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
